@@ -9,7 +9,6 @@ This repository contains the configuration steps and the Cisco Packet Tracer fil
 ![image](https://github.com/user-attachments/assets/c33a5d73-a71c-4f5c-81dd-0a02078bb75b)
 
 
-## Usage
 
-- Open the `.pkt` file in Cisco Packet Tracer.
-- Follow the configuration steps to set up each server.
+
+
