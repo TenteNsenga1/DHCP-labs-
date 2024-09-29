@@ -1,14 +1,8 @@
 # DHCP-labs
 
-# DHCP, DNS, and Web Server Configuration in Cisco Packet Tracer
+# decription 
 
 This repository contains the configuration steps and the Cisco Packet Tracer file for setting up DHCP, DNS, and Web Servers in a network environment.
-
-## Files
-
-- `DHCP_DNS_Web_Server.pkt`: Cisco Packet Tracer simulation file.
-- `configs/`: Directory with individual configuration commands for DHCP, DNS, and Web Server.
-- `images/`: Network topology diagram.
 
 ## Topology
 
