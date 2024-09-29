@@ -1,6 +1,6 @@
 # DHCP-labs
 
-# decription 
+# Decription 
 
 This repository contains the configuration steps and the Cisco Packet Tracer file for setting up DHCP, DNS, and Web Servers in a network environment.
 
